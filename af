@@ -1,0 +1,25 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 18345a1..25a2533 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,10 +1,4 @@[m
+ # New Project [m
+ [m
+ This Project was Crated from local System.[m
+[31m-<<<<<<< HEAD[m
+[31m-[m
+[31m-# created By[m
+[31m-vikas godhani for demo.[m
+[31m-=======[m
+[31m-Create by vikas godhani.[m
+[31m->>>>>>> fb22636c12630370e72935a49f1fc8f04c895bd3[m
+[32m+[m[32mCreate by vikas godhani.[m
+\ No newline at end of file[m
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 2cbc380..307e7b7 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1 +1 @@[m
+[31m-// add new features -button[m
+\ No newline at end of file[m
+[32m+[m[32m// add new feature -form.[m
